@@ -3,6 +3,7 @@
 A portfolio-ready collection of beginner-friendly but visually impressive Machine Learning and Quantitative Development projects built with Python.
 
 ---
+## Dev/Creator=tubakhxn
 
 # Included Projects
 
